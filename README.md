@@ -1,3 +1,3 @@
 things I learnt
 
-- routing
+- routing - https://www.w3schools.com/react/react_router.asp
