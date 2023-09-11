@@ -1,0 +1,3 @@
+things I learnt
+
+- routing
